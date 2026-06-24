@@ -15,19 +15,3 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 
 print("Model loaded successfully")
-
-
-# from Models.llm import get_llm
-
-# print("Loading model...")
-
-# llm = get_llm()
-
-# print("Model loaded successfully!")
-
-# response = llm.invoke(
-#     "What is machine learning? Explain in 3 lines."
-# )
-
-# print("\nResponse:")
-# print(response)
