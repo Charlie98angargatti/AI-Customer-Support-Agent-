@@ -21,7 +21,6 @@ The system can:
 Customers can:
 
 * Request refunds
-* Check order information
 * Submit refund reasons
 * Receive approval or denial decisions
 
@@ -32,8 +31,6 @@ Contains:
 * 15 Mock Customer Profiles
 * Customer Membership Tiers
 * Refund History
-* Account Status
-* Fraud Indicators
 
 ### Refund Policy Engine
 
@@ -44,8 +41,6 @@ Supports:
 * Food Item Restrictions
 * Personalized Product Rules
 * VIP Customer Extensions
-* Fraud Detection
-* Manager Escalations
 
 ### Admin Dashboard
 
