@@ -1,0 +1,26 @@
+# GPU-optimized requirements for HPC deployment
+# For A100 GPUs on HPC servers
+
+# Core dependencies
+torch>=2.0.0  # PyTorch with CUDA support
+transformers>=4.40.0  # HuggingFace transformers
+accelerate>=0.25.0  # GPU acceleration utilities
+
+# LangChain ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.1
+langchain-huggingface>=0.0.1
+langgraph>=0.0.1
+
+# Database and data
+duckdb>=0.9.0
+
+# Utilities
+python-dotenv>=1.0.0
+numpy>=1.24.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Optional: quantization support
+bitsandbytes>=0.41.0  # For 8-bit and 4-bit quantization on A100

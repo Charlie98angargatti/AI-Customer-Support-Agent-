@@ -1,0 +1,99 @@
+====================================================
+  SHOPEASE E-COMMERCE REFUND & RETURN POLICY
+  Effective Date: January 1, 2025
+  Version: 3.3 (INR)
+====================================================
+
+1. ELIGIBILITY WINDOW
+-----------------------
+- Standard items: Refund or exchange requests must be submitted within 30 days of the
+  confirmed delivery date.
+- Electronics: 15 days from confirmed delivery date.
+- Perishables / Food items: 3 days from confirmed delivery date.
+- Digital products / Software licenses: NON-REFUNDABLE once the license key has been
+  activated or the download link accessed.
+- Personalized / custom-made items: NON-REFUNDABLE unless the item arrives damaged
+  or defective. If damaged/defective, the standard 30-day window applies.
+
+2. ITEM CONDITION REQUIREMENTS
+---------------------------------
+- Items must be returned in original, unused condition with all original packaging,
+  tags, and accessories intact.
+- Items showing signs of use, wear, damage caused by the customer, or missing
+  components will be rejected.
+- A clear photo of the item and its condition must be submitted with the request.
+
+3. VALID REFUND REASONS
+--------------------------
+APPROVED reasons (full refund):
+  a) Item arrived damaged or defective (must report within 72 hours of delivery)
+  b) Wrong item shipped (different from what was ordered)
+  c) Item never arrived (must wait 10 business days past expected delivery)
+  d) Significant product description mismatch (size, color, material)
+
+APPROVED reasons (partial refund - 50%):
+  e) Customer changed their mind — within the eligible return window and item unused
+  f) Item does not fit / size issue — only for clothing and footwear category
+
+DENIED reasons (no refund):
+  g) Item was used and then returned ("buyer's remorse" after use)
+  h) Damage caused by the customer (drops, spills, misuse)
+  i) Request submitted after the eligibility window has expired
+  j) Digital products with activated licenses
+  k) Perishables reported after 3-day window
+  l) Customer claims non-delivery but tracking confirms delivery and signature obtained
+  m) Personalized/custom-made items, unless damaged or defective
+
+4. ORDER VALUE LIMITS (INR)
+------------------------------
+- Orders under ₹800.00: No refund issued (non-refundable minimum threshold).
+- Orders between ₹800.00 and ₹40,000.00: Standard refund process applies.
+- Orders above ₹40,000.00: Require manager approval and may take up to 7 business days.
+- Maximum single refund amount: ₹80,000.00 (amounts above require executive approval).
+
+5. REFUND METHOD & TIMELINE
+-----------------------------
+- Original payment method refunds: 5–10 business days after approval.
+- Store credit refunds: Issued within 24 hours of approval.
+- Cash refunds for in-store purchases: Immediate upon approval.
+- Shipping costs are NON-REFUNDABLE unless the return is due to our error (wrong item,
+  defective item).
+
+6. REPEAT / FRAUDULENT CLAIMS
+-------------------------------
+- Customers with more than 3 refund requests in a 90-day rolling window will be
+  flagged for review. Refund may be denied pending investigation.
+- Accounts suspected of refund fraud will be permanently banned.
+- Any refund request with inconsistent information, fabricated damage claims, or
+  mismatched order details will be denied and the account flagged.
+
+7. SPECIAL CASES & EXCEPTIONS
+-------------------------------
+- Festive Season (Oct 1 – Jan 10): Eligible window extended to 45 days for standard
+  items purchased as gifts.
+- VIP / Premium Members: Eligible window extended by 15 additional days on all
+  standard items.
+- Subscription boxes: Only the most recent box is eligible for a refund claim.
+- Bundle deals: The entire bundle must be returned; partial bundle refunds are not
+  accepted.
+
+8. HOW TO SUBMIT A CLAIM
+--------------------------
+Customer must provide:
+  1. Order ID
+  2. Full name on the account
+  3. Reason for refund (from the approved list above)
+  4. Photo evidence (for damaged/defective items)
+  5. Preferred refund method
+
+Claims are reviewed within 2–3 business days.
+
+9. ESCALATION
+--------------
+If a customer disagrees with a refund decision, they may escalate by emailing
+support@shopease.com with subject line "REFUND ESCALATION – [Order ID]".
+An escalation team will respond within 5 business days.
+
+====================================================
+  END OF POLICY DOCUMENT
+====================================================

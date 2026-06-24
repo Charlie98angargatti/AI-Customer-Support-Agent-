@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+duckdb
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+python-dotenv
