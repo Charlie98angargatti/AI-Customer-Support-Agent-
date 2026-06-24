@@ -28,25 +28,3 @@ except Exception as e:
 input("\nPress Enter to exit...")
 
 
-
-
-# from Models.llm import get_llm
-
-# print("Loading model...")
-
-# llm = get_llm()
-
-# print("Model loaded successfully!")
-
-# try:
-#     response = llm.invoke(
-#         "What is machine learning? Explain in 3 lines."
-#     )
-
-#     print("\nResponse:")
-#     print(response)
-
-# except Exception as e:
-#     print("\nERROR:")
-#     print(type(e).__name__)
-#     print(e)
